@@ -1,4 +1,4 @@
-# Computer-Vision
+
 =========================================================
 DATASET : Projet Computer Vision - Restauration de Plaques
 =========================================================
